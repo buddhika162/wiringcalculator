@@ -1,0 +1,79 @@
+
+
+.dropdown-content li>a, .dropdown-content li>span {
+    font-size: 18px !important;
+    padding: 12px 30px !important;
+    color: #FFCB00 !important;
+}
+input, label {
+   color:#FFCB00 !important;
+}
+
+.collapsible-body {
+	background-color:#240046 ;
+	color:#FFCB00;
+}
+
+.select-wrapper input.select-dropdown{
+	color:#FFCB00 !important;
+}
+.dropdown-content{
+	
+	background-color:#240046 !important;
+	color:#FFCB00;
+	border-radius: 20px;
+}
+
+i{
+	background-color:#240046 ;
+	color:#FFCB00;
+	
+}
+.textColorYellow{
+	color:#FFCB00;
+	text-align: center;  
+	text-decoration: underline; 
+	padding-bottom: 40px;
+}
+.btn-floating i{
+	font-size: 3.6rem !important;
+}
+
+nav ul a{
+	font-size: 21px;
+	font-family: SegoeUI, Segoe UI;
+	
+}
+nav ul li{
+	padding: 3px;
+}
+
+nav{
+	margin-top: 8px;
+	margin-left: 8px;
+}
+
+nav ul{
+    padding-top: 15px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+}
+
+.modal.modal-footer{
+padding-top: 4px !important;
+padding-right: 30px !important;
+padding-bottom: 4px !important;
+padding-left: 30px !important;
+}
+
+.newArea{
+	background-color:#FFCB00; !important;
+}
+
+.card{
+	
+	background-color:#FFCB00;
+	color:#240046
+}
+

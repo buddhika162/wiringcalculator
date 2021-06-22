@@ -1,0 +1,99 @@
+.cls-1 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-2, .cls-4 {
+        fill: #240046;
+      }
+
+      .cls-3 {
+        opacity: 0.19;
+      }
+
+      .cls-4 {
+        stroke: #707070;
+      }
+
+      .cls-10, .cls-13, .cls-14, .cls-17, .cls-21, .cls-5, .cls-6 {
+        fill: #ffcb00;
+      }
+
+      .cls-11, .cls-5, .cls-6, .cls-8 {
+        font-size: 30px;
+      }
+
+      .cls-11, .cls-13, .cls-14, .cls-17, .cls-5, .cls-7, .cls-9 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-19, .cls-6, .cls-8 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-7, .cls-9 {
+        font-size: 25px;
+      }
+
+      .cls-9 {
+        font-weight: 400;
+      }
+
+      .cls-12 {
+        fill: url(#pattern);
+      }
+
+      .cls-13 {
+        font-size: 22px;
+      }
+
+      .cls-14 {
+        font-size: 23px;
+      }
+
+      .cls-15 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-16 {
+        fill: url(#pattern-3);
+      }
+
+      .cls-17 {
+        font-size: 54px;
+      }
+
+      .cls-18 {
+        fill: url(#pattern-4);
+      }
+
+      .cls-19, .cls-24 {
+        fill: #fff;
+      }
+
+      .cls-19, .cls-21 {
+        font-size: 35px;
+      }
+
+      .cls-20, .cls-23 {
+        fill: none;
+      }
+
+      .cls-20 {
+        stroke: #f9da0c;
+        stroke-width: 10px;
+      }
+
+      .cls-21 {
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+	  
+
+      .cls-22 {
+        stroke: none;
+      }
+	  
+
+	  
+	  .pointer {cursor: pointer;}

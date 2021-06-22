@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<!--[if (IE 9)&!(IEMobile)]><html lang="en-GB" class="lt-ie10"><![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en-GB"><!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.grahamcottingham.co.uk/xmlrpc.php">
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/themes/gcltd/favicons/apple-touch-icon.png?v=KmbwKQNg9K">
+<link rel="icon" type="image/png" href="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/themes/gcltd/favicons/favicon-32x32.png?v=KmbwKQNg9K" sizes="32x32">
+<link rel="icon" type="image/png" href="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/themes/gcltd/favicons/favicon-16x16.png?v=KmbwKQNg9K" sizes="16x16">
+<link rel="manifest" href="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/themes/gcltd/favicons/manifest.json?v=KmbwKQNg9K">
+<link rel="mask-icon" href="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/themes/gcltd/favicons/safari-pinned-tab.svg?v=KmbwKQNg9K" color="#ff7f00">
+<link rel="shortcut icon" href="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/themes/gcltd/favicons/favicon.ico?v=KmbwKQNg9K">
+<meta name="msapplication-config" content="/wp-content/themes/gcltd/favicons/browserconfig.xml?v=KmbwKQNg9K">
+<meta name="theme-color" content="#ffffff">
+<meta name="format-detection" content="telephone=no">
+
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Graham Cottingham Limited - Reliable East Sussex electricians</title>
+	<meta name="description" content="Since 2006, our team of East Sussex electricians have been providing a reliable, high quality service to domestic &amp; commercial clients. Call 01323 849 750." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.grahamcottingham.co.uk/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Graham Cottingham Limited - Reliable East Sussex electricians" />
+	<meta property="og:description" content="Since 2006, our team of East Sussex electricians have been providing a reliable, high quality service to domestic &amp; commercial clients. Call 01323 849 750." />
+	<meta property="og:url" content="https://www.grahamcottingham.co.uk/" />
+	<meta property="og:site_name" content="Graham Cottingham Registered Electricians" />
+	<meta property="article:modified_time" content="2017-07-17T08:29:01+00:00" />
+	<meta property="og:image" content="https://www.grahamcottingham.co.uk/wp-content/uploads/2016/08/IMG_6747-300x300-1498474280.jpg" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="hexagon">
+	<meta name="twitter:label2" content="Estimated reading time">
+	<meta name="twitter:data2" content="1 minute">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.grahamcottingham.co.uk/#organization","name":"Graham Cottingham Limited","url":"https://www.grahamcottingham.co.uk/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.grahamcottingham.co.uk/#logo","inLanguage":"en-GB","url":"https://www.grahamcottingham.co.uk/wp-content/uploads/2017/06/Graham-Cottingham-Limited.png","width":3427,"height":527,"caption":"Graham Cottingham Limited"},"image":{"@id":"https://www.grahamcottingham.co.uk/#logo"}},{"@type":"WebSite","@id":"https://www.grahamcottingham.co.uk/#website","url":"https://www.grahamcottingham.co.uk/","name":"Graham Cottingham Registered Electricians","description":"","publisher":{"@id":"https://www.grahamcottingham.co.uk/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.grahamcottingham.co.uk/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"WebPage","@id":"https://www.grahamcottingham.co.uk/#webpage","url":"https://www.grahamcottingham.co.uk/","name":"Graham Cottingham Limited - Reliable East Sussex electricians","isPartOf":{"@id":"https://www.grahamcottingham.co.uk/#website"},"about":{"@id":"https://www.grahamcottingham.co.uk/#organization"},"datePublished":"2016-08-23T11:35:14+00:00","dateModified":"2017-07-17T08:29:01+00:00","description":"Since 2006, our team of East Sussex electricians have been providing a reliable, high quality service to domestic & commercial clients. Call 01323 849 750.","inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.grahamcottingham.co.uk/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Graham Cottingham Registered Electricians &raquo; Feed" href="https://www.grahamcottingham.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Graham Cottingham Registered Electricians &raquo; Comments Feed" href="https://www.grahamcottingham.co.uk/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.grahamcottingham.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gcltd-base-style-css'  href='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/themes/gcltd/style.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gcltd-style-css'  href='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/themes/gcltd/dist/css/style.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gcltd-google-fonts-css'  href='//fonts.googleapis.com/css?family=Lato:300,400|Ubuntu' type='text/css' media='all' />
+<link rel='stylesheet' id='gcltd-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-featherlight-css'  href='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/plugins/wp-featherlight/css/wp-featherlight.min.css?ver=1.3.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://www.grahamcottingham.co.uk/wp-json/" /><link rel="alternate" type="application/json" href="https://www.grahamcottingham.co.uk/wp-json/wp/v2/pages/6" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.grahamcottingham.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.grahamcottingham.co.uk/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.grahamcottingham.co.uk/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.grahamcottingham.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.grahamcottingham.co.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.grahamcottingham.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.grahamcottingham.co.uk%2F&#038;format=xml" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/background-6.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+			<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+body.custom-background {
+	background-position: center -52px !important;
+}		</style>
+				<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-18599503-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+	<style id="kirki-inline-styles"></style></head>
+
+<body class="home page-template page-template-home page-template-home-php page page-id-6 custom-background wp-custom-logo wp-featherlight-captions">
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header site-container">
+		
+		<div class="site-branding-nav-bar clear">		
+			<div class="site-inner">
+				<div class="site-branding" itemscope itemtype="http://schema.org/Organization">
+					<meta itemprop="name" content="Graham Cottingham Registered Electricians">
+					<a href="https://www.grahamcottingham.co.uk/" class="custom-logo-link" rel="home" aria-current="page"><img width="363" height="55" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/logo.png" class="custom-logo" alt="Graham Cottingham Registered Electricians" /></a>				</div><!-- .site-branding -->
+
+				<nav id="site-navigation" class="site-navigation">
+					<div class="menu-main-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://www.grahamcottingham.co.uk/about/">About</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="https://www.grahamcottingham.co.uk/electrical-services/">Electrical Services</a></li>
+<li id="menu-item-17" class="can-hide menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://www.grahamcottingham.co.uk/electrical-services/new-homes/">New Homes</a></li>
+<li id="menu-item-18" class="can-hide menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="https://www.grahamcottingham.co.uk/electrical-services/kitchens-bathrooms/">Kitchens &#038; Bathrooms</a></li>
+<li id="menu-item-19" class="can-hide menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="https://www.grahamcottingham.co.uk/electrical-services/garden-lighting/">Garden Lighting</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://www.grahamcottingham.co.uk/contact/">Contact</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+			</div>
+		</div>
+
+					
+			
+							<div class="site-banner site-inner">
+					<div class="banner-content">
+						<h1>We are Hailsham's <br />family-run electrical firm</h1>
+						<p>Since 2006, our team of electricians have been providing a reliable, high quality service to domestic, retail and commercial clients across East Sussex. <a href="http://www.grahamcottingham.co.uk/contact/">Contact us</a> on 01323 849 750.</p>
+					</div>
+					<div class="banner-scroll"><a href="#section-one"><i class="fa fa-chevron-down"></i></a></div>
+				</div>
+			
+		
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+						
+	
+		<div class="site-container white">
+			<div class="content-area site-inner clear" id="section-one">
+
+				<header class="entry-header">
+					<h2 class="entry-title">Our Team</h2>
+				</header><!-- .entry-header -->
+
+				<div class="entry-content half">
+					<p>Our small team of registered &amp; apprentice electricians has become well respected throughout Hailsham &amp; the wider Sussex area for providing a reliable, high quality service. Led by Graham Cottingham, who has over 15 years&#8217; experience in the electrical industry, the team has grown since 2006 through successful apprenticeships. The vast majority of our work comes via word of mouth. <a href="http://www.grahamcottingham.co.uk/about/">Read more</a>.</p>
+				</div>
+
+				<div class="logos home">
+					<a class="logo" target="_blank" href="http://www.niceic.com/"><img width="118" height="60" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/niceic.png" class="attachment-full size-full" alt="" loading="lazy" /></a><a class="logo" target="_blank" href="https://www.eastsussex.gov.uk/business/tradingstandards/approved-traders/buywithconfidence/"><img width="69" height="69" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/buywithconfidence.png" class="attachment-full size-full" alt="" loading="lazy" /></a><a class="logo" target="_blank" href="http://www.esc.org.uk/"><img width="64" height="64" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Electrical-Safety-Council.png" class="attachment-full size-full" alt="" loading="lazy" /></a>				</div>
+
+									<div>
+						<div class="team clear"><div class="team-member cols4" data-featherlight="#graham-cottingham-profile"><img width="300" height="300" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Graham-Cottingham-300x300.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Graham-Cottingham-300x300.jpg 300w, https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Graham-Cottingham-600x600.jpg 600w, https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Graham-Cottingham-768x768.jpg 768w, https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Graham-Cottingham.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><div class="details"><h5>Graham Cottingham</h5><p>Director &amp; Electrician</p></div></div><div class="team-member cols4" data-featherlight="#tim-funnell-profile"><img width="300" height="300" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Tim-Funnell-300x300.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Tim-Funnell-300x300.jpg 300w, https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Tim-Funnell-600x600.jpg 600w, https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Tim-Funnell-768x768.jpg 768w, https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Tim-Funnell.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><div class="details"><h5>Tim Funnell</h5><p>Electrician, joined in 2009</p></div></div><div class="team-member cols4" data-featherlight="#tim-neff-woodhams-profile"><img width="300" height="300" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Tim-Woodhams-300x300.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Tim-Woodhams-300x300.jpg 300w, https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Tim-Woodhams-600x600.jpg 600w, https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Tim-Woodhams.jpg 644w" sizes="(max-width: 300px) 100vw, 300px" /><div class="details"><h5>Tim (&#8216;Neph&#8217;) Woodhams</h5><p>Electrician, joined in 2014</p></div></div><div class="team-member cols4" data-featherlight="#liz-cottingham-profile"><img width="300" height="300" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Liz-Cottingham-300x300.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Liz-Cottingham-300x300.jpg 300w, https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Liz-Cottingham-600x600.jpg 600w, https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Liz-Cottingham-768x768.jpg 768w, https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Liz-Cottingham.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><div class="details"><h5>Liz Cottingham</h5><p>Administration</p></div></div></div><div class="profiles"><div class="profile" id="graham-cottingham-profile"><div class="image" style="background-image:url(https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Graham-Cottingham.jpg);"></div><div class="biography"><p>Graham is a fully qualified and NICEIC registered electrician, with over 15 years’ experience in the electrical industry. His ethos has always been to deliver a professional, reliable service – and the respect and reputation that he and his team have built up in the local area over the past 10+ years is testament to that.</p>
+<p>Prior to setting up his own business, Graham initially worked as an electrical engineer at an aerodynamic equipment manufacturer, and then went on to work as an electrician with a local firm.</p>
+</div></div><div class="profile" id="tim-funnell-profile"><div class="image" style="background-image:url(https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Tim-Funnell.jpg);"></div><div class="biography"><p>Tim is a fully qualified electrician, having successfully completed his apprenticeship in 2013. Tim joined the company in 2009; we were really chuffed when Tim was nominated by his college for the Apprenticeship of the Year award (Southern Area).</p>
+<p>After finishing his apprenticeship, Tim also successfully completed his Inspection &amp; Testing course.</p>
+<p>Outside of work, he enjoys working his gun dog, Levi.</p>
+</div></div><div class="profile" id="tim-neff-woodhams-profile"><div class="image" style="background-image:url(https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Tim-Woodhams.jpg);"></div><div class="biography"><p>Tim joined us in 2014, and completed his apprenticeship in February 2019. He was awarded recognition for his skills when he came 2nd in the World Skills (Southern Region) Electrical Installations competition.</p>
+<p>Having two Tims on the team presented us with a small identification crisis, so Tim is officially known as ‘Neph’ (as well as being Tim, he also happens to be Graham’s nephew)!</p>
+</div></div><div class="profile" id="liz-cottingham-profile"><div class="image" style="background-image:url(https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Liz-Cottingham.jpg);"></div><div class="biography"><p>Liz looks after the administrative and office management aspects of the business, and also health &amp; safety. She will likely be the person you speak to if you call during office hours. A trained nurse, she has also on occasions been given the tongue-in-cheek title of ‘Union Rep’!</p>
+</div></div></div>
+					</div>
+								
+			</div>
+		</div>
+
+	
+	
+		<div class="site-container grey">
+			<div class="content-area site-inner clear">
+
+				<header class="entry-header">
+					<h2 class="entry-title">Services</h2>
+				</header><!-- .entry-header -->
+
+				<div class="entry-content">
+					<p>We undertake a wide variety of projects for domestic, commercial and retail clients &#8211; click on one of the options below for more details. A free, no-obligation estimate is provided for each job &#8211; <a href="http://www.grahamcottingham.co.uk/contact/">contact us</a> today  for your estimate. We also handle emergency callouts – call directly on <strong>07763 159276</strong> or <strong>01323 849750</strong>.</p>
+				</div>
+
+									<div>
+						<div class="in-page-menu"><ul id="menu-services" class="menu"><li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://www.grahamcottingham.co.uk/electrical-services/new-homes/">New Homes</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://www.grahamcottingham.co.uk/electrical-services/garden-lighting/">Garden Lighting</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://www.grahamcottingham.co.uk/electrical-services/kitchens-bathrooms/">Kitchens &#038; Bathrooms</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://www.grahamcottingham.co.uk/electrical-services/rewires-upgrades/">Rewires &#038; Upgrades</a></li>
+<li id="menu-item-138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138"><a href="https://www.grahamcottingham.co.uk/electrical-services/maintenance-repairs/">Maintenance &#038; Repairs</a></li>
+<li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="https://www.grahamcottingham.co.uk/electrical-services/inspection-testing/">Inspection &#038; Testing</a></li>
+<li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="https://www.grahamcottingham.co.uk/electrical-services/heating-systems/">Heating Systems</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://www.grahamcottingham.co.uk/electrical-services/green-energy/">Green Energy</a></li>
+</ul></div>
+					</div>
+								
+			</div>
+		</div>
+
+	
+	<div class="site-container white">
+
+		<div class="content-area site-inner">
+
+			<main id="main" class="site-main">
+
+				
+<article id="post-6" class="clear post-6 page type-page status-publish hentry">
+
+	<header class="entry-header">
+					<h2 class="entry-title">About Us</h2>
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Established as a business in early 2006, we are a small team of reliable electricians who take pride in delivering a friendly, high quality service. We are <a href="http://www.niceic.com/" target="_blank" rel="noopener">NICEIC</a> (&amp; therefore Part P) registered, and are also accredited by the Trading Standards ‘<a href="https://www.eastsussex.gov.uk/business/tradingstandards/approved-traders/buywithconfidence/" target="_blank" rel="noopener">Buy with Confidence</a>’ scheme, so you can rest assured in the knowledge that we consistently provide a high standard of customer service.</p>
+<p>Our experience includes complex garden lighting schemes, high-end new builds and barn conversions, retail refits, re-wiring chapels &amp; churches, installing under floor heating, installing wiring for swimming pools &amp; floodlit tennis courts, as well as the more mundane socket moves &amp; light fitting replacements!</p>
+<p>We work throughout Sussex, with a lot of our work being in the East Sussex towns of Hailsham, Eastbourne, Heathfield and Uckfield. On request, we may work further afield in London and the South East. <a href="http://www.grahamcottingham.co.uk/about/">Read more about us here</a>.</p>
+</div><div class="">
+<div id='gallery-1' class='gallery galleryid-6 gallery-columns-4 gallery-size-thumbnail'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/IMG_6747.jpg'><img width="300" height="300" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/IMG_6747-300x300-1498474280.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/Photo-19-12-2013-08-39-04.jpg'><img width="300" height="300" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/Photo-19-12-2013-08-39-04-300x300.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/2015.-09.-Sackville-Court-Barn.int_.-13.-photo-p.fewster-.-85.-1024.jpg'><img width="300" height="300" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/2015.-09.-Sackville-Court-Barn.int_.-13.-photo-p.fewster-.-85.-1024-300x300.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/External1.jpg'><img width="300" height="300" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/External1-300x300-1498474309.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+			</div></figure>
+		</div>
+
+	</div>
+
+	</article><!-- #post-## -->
+
+			</main><!-- #main -->
+			
+		</div><!-- #primary .site-inner -->
+
+	</div><!-- .site-container -->
+
+
+<aside id="secondary">
+
+		
+	
+
+				<div class="site-container grey clear">
+			<div class="site-inner clear">
+				<div class="column"><blockquote><p>Graham &amp; his team provided an efficient, cost effective and high quality installation at our development of 9no four storey town houses at Oyster Quay, Shoreham. It was a challenging build and the electrical installation was well managed and integrated by Graham with the other trades on the project.</p>
+<p>We have no hesitation in recommending Graham and look forward to working with him &amp; his team in the future.</p>
+</blockquote><p class="quote-author">Mark Overy, Riverside Living Limited</p></div><div class="column"><blockquote><p>Graham Cottingham Electricians came to us via a recommendation, and since then we have worked  with Graham and his staff on many projects.</p>
+<p>He has come in for unanimous praise on every project and is always extremely helpful, professional, and does an excellent job.</p>
+<p>He has an extensive knowledge of all things electrical and has completed each project to a very high quality, a fair price and on time.</p>
+</blockquote><p class="quote-author">Jim Richardson, Richardson Architecture Limited</p></div>			</div>
+		</div>
+	
+</aside><!-- #secondary -->
+
+	</div><!-- #content -->
+
+	<footer class="site-footer site-container">
+		<div class="site-info site-inner">
+			<div>
+				<p><a href="http://www.grahamcottingham.co.uk/contact/">Contact</a> | <a href="http://www.grahamcottingham.co.uk/contact/terms-conditions/">Legal</a> | <a href="http://www.grahamcottingham.co.uk/privacy-cookies/">Privacy &amp; Cookies</a> | <a href="http://www.hexagonwebworks.com" target="_blank">Website</a><br />&copy; Graham Cottingham Limited, 31 Battle Road, Hailsham, East Sussex, BN27 1DY</p>			</div>
+			<div class="logos">
+				<a class="logo" target="_blank" href="http://www.niceic.com/"><img width="118" height="60" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/niceic.png" class="attachment-full size-full" alt="" loading="lazy" /></a><a class="logo" target="_blank" href="https://www.eastsussex.gov.uk/business/tradingstandards/approved-traders/buywithconfidence/"><img width="69" height="69" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/buywithconfidence.png" class="attachment-full size-full" alt="" loading="lazy" /></a><a class="logo" target="_blank" href="http://www.esc.org.uk/"><img width="64" height="64" src="https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Electrical-Safety-Council.png" class="attachment-full size-full" alt="" loading="lazy" /></a>			</div>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script>var jquery_placeholder_url = 'https://www.grahamcottingham.co.uk/wp-content/plugins/gravity-forms-placeholder-support-add-on/jquery.placeholder-1.0.1.js';</script><script type='text/javascript' src='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/themes/gcltd/dist/js/lib/jquery.doubletaptogo.min.js?ver=20160906' id='gcltd-double-tap-to-go-js'></script>
+<script type='text/javascript' src='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/themes/gcltd/dist/js/lib/jquery.malihu.PageScroll2id.min.js?ver=20160906' id='gcltd-page-scroll-to-id-js'></script>
+<script type='text/javascript' src='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/themes/gcltd/dist/js/all.min.js?ver=20160905' id='gcltd-scripts-js'></script>
+<script type='text/javascript' src='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/plugins/wp-featherlight/js/wpFeatherlight.pkgd.min.js?ver=1.3.4' id='wp-featherlight-js'></script>
+<script type='text/javascript' src='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://bhkz41xem2byi4ae3my492iv-wpengine.netdna-ssl.com/wp-content/plugins/gravity-forms-placeholder-support-add-on/gfplaceholderaddon.js?ver=1.0' id='gf_placeholder_add_on-js'></script>
+	
+</body>
+</html>
